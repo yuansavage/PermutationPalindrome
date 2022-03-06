@@ -7,4 +7,4 @@ Program is made by Vue.js and the unit test is written by Jest.
 2. npm run serve (for run the program)
 3. npm run test:unit (for run the unit test)
 
-![gif](/art/permutationspalindrome.gif)
+![gif](/art/PermutationsPalindrome.gif)
